@@ -25,3 +25,5 @@ Foresight Pharmaceuticals is hoping to enable its distributors gain some insight
 > Of the 6 product classes, the analgesics were the most grossing products with Ionclotide (an analgesic) being the most valuable product of all the 249 products.
 
 > At the retail level, the pharmacy channel generates more revenue compared to the hospital channel. The retail sub channel accounts for 28.3% of the total revenue generated and is the highest grossing sub channel.
+
+Link to the interactive report: https://app.powerbi.com/view?r=eyJrIjoiNDc1NTE2YTMtNjJiMC00Njc5LWIyNWUtNzZhNDQ4MTViNGI2IiwidCI6IjliZWQ0MzhhLTZiODMtNDUyZS04ZTM3LThiYzY0YzUxOTAyNCJ9
